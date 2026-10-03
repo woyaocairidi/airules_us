@@ -64,6 +64,11 @@ DOMAIN-SUFFIX,developerprofiles.google.com
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,clients6.google.com
+DOMAIN-SUFFIX,clients4.google.com
+DOMAIN-SUFFIX,googleusercontent.com
 
 # JetBrains AI
 DOMAIN-SUFFIX,grazie.ai
