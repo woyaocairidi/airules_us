@@ -48,6 +48,10 @@ DOMAIN-SUFFIX,dify.ai
 
 
 #  Google AI (Gemini/Bard)
+DOMAIN,robinfrontend-pa.googleapis.com
+DOMAIN,googleapis.com
+DOMAIN,oauthaccountmanager.googleapis.com
+DOMAIN,play.googleapis.com
 DOMAIN,ai.google.dev
 DOMAIN,makersuite.google.com
 DOMAIN-SUFFIX,gemini.google.com
