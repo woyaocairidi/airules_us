@@ -46,22 +46,23 @@ DOMAIN-SUFFIX,cursorvm.com
 #  Dify AI
 DOMAIN-SUFFIX,dify.ai
 
-#  Google AI (Gemini/Bard)
+
+# Google AI (Gemini / Bard)
 DOMAIN,ai.google.dev
 DOMAIN,makersuite.google.com
 DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,apis.google.com
-DOMAIN-SUFFIX,clients6.google.com
-DOMAIN-SUFFIX,clients4.google.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,colab.google.com
+DOMAIN,colab.google.com
 DOMAIN-SUFFIX,colab.research.google.com
 DOMAIN-SUFFIX,developerprofiles.google.com
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,notebooklm.google
+
+# Gemini 专用后端
+DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,generativelanguage.googleapis.com
 
 # JetBrains AI
 DOMAIN-SUFFIX,grazie.ai
